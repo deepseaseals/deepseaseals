@@ -1,16 +1,46 @@
-## Hi there 👋
+<img src="https://files.catbox.moe/e2fere.png" width="500" align="left" alt="made by pwppy/@pupflesh on dc">
 
-<!--
-**deepseaseals/deepseaseals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
+<img src="https://files.catbox.moe/6ge637.png" width="300" align="left" alt="made by pwppy/@pupflesh on dc">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+test test hello hello!
+test test hello hello!
+test test hello hello!
+
+
+  <details>
+  <summary>PLACEHOLDER </summary>
+
+  PLACEHOLDER<br>
+  </details>
+    <details>
+  <summary>PLACEHOLDER </summary>
+
+  PLACEHOLDER<br>
+  </details>
+    <details>
+  <summary>PLACEHOLDER </summary>
+
+  PLACEHOLDER<br>
+  </details>
+    <details>
+  <summary>PLACEHOLDER </summary>
+
+  PLACEHOLDER<br>
+  </details>
+    <details>
+  <summary>PLACEHOLDER </summary>
+
+  PLACEHOLDER<br>
+  </details>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://files.catbox.moe/e2fere.png" width="500" align="left" alt="made by pwppy/@pupflesh on dc">
