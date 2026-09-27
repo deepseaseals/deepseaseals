@@ -1,4 +1,4 @@
-<img src="https://files.catbox.moe/e2fere.png" width="500" align="left" alt="made by pwppy/@pupflesh on dc">
+<img src="https://files.catbox.moe/e2fere.png" width="800" align="left" alt="made by pwppy/@pupflesh on dc">
 
 <br>
 <br>
@@ -43,4 +43,4 @@ test test hello hello!
 <br>
 <br>
 
-<img src="https://files.catbox.moe/e2fere.png" width="500" align="left" alt="made by pwppy/@pupflesh on dc">
+<img src="https://files.catbox.moe/e2fere.png" width="800" align="left" alt="made by pwppy/@pupflesh on dc">
