@@ -1,9 +1,6 @@
 <img src="https://files.catbox.moe/e2fere.png" width="800" align="left" alt="made by pwppy/@pupflesh on dc">
 
-<br>
-<br>
-<br>
-<br>
+<br> <br> <br> <br> <br> <br> <br> <br>
 
 <img src="https://files.catbox.moe/6ge637.png" width="300" align="left" alt="made by pwppy/@pupflesh on dc">
 
